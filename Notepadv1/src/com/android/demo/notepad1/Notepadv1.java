@@ -42,3 +42,4 @@ public class Notepadv1 extends Activity {
         return super.onOptionsItemSelected(item);
     }
 }
+//gkgkgkgk
